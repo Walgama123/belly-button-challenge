@@ -44,5 +44,5 @@ The dataset reveals that a small handful of microbial species (also called opera
 - static/js
   - [app.js](static/js/app.js)
 - Images
-  - [Bubble chart](images/bacteriacultures.png)  
-  - [Horizontal bar chart](images/top10Bacteria.png)
+  - [Bubble chart](Images/bacteriacultures.png)  
+  - [Horizontal bar chart](Images/top10Bacteria.png)
