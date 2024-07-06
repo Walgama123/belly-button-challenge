@@ -36,7 +36,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 - [Horizontal bar chart- Plot the top 10 bacteria values for a given sample ID](images/top10Bacteria.png)
 
 
-# Folders and files.
+## Folders and files.
 - Root folder
   - [index.html](index.html)
   - [samples.json](samples.json)
