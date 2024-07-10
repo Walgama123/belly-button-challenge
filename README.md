@@ -35,6 +35,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 - [Bubble chart- Distribution of the values of each bacteria for a given sample ID](images/bacteriacultures.png)  
 - [Horizontal bar chart- Plot the top 10 bacteria values for a given sample ID](images/top10Bacteria.png)
 
+## Go to web page
+[Belly Button Biodiversity Dashboard](https://walgama123.github.io/belly-button-challenge/)
 
 ## Folders and files.
 - Root folder
